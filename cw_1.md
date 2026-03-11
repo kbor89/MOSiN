@@ -18,15 +18,16 @@ Wyobraź sobie, że chcesz zmierzyć, jak bardzo okrągła jest bieżnia łożys
          ┌─────────────────────────────────────────┐
          │         PROFILOGRAFOMETR                │
          │                                         │
-         │    czujnik (igła stykowa)               │
-         │         │                               │
-         │    ┌────▼────┐                          │
+         │                                         │
+         │    ┌─────────┐                          │
          │    │  ramię  │──► przesunięcie          │
          │    └────┬────┘                          │
          │         │                               │
+         │         │                               │
+         │         │  czujnik (igła stykowa)       │
          │    ┌────▼────────────────┐              │
-         │    │   BIEŻNIA ŁOŻYSKA  │               │
-         │    └────────────────────┘               │
+         │    │   BIEŻNIA ŁOŻYSKA   │              │
+         │    └─────────────────────┘              │
          │                                         │
          │  Wynik: chmura punktów (x, y) w µm      │
          └─────────────────────────────────────────┘
