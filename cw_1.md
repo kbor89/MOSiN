@@ -135,7 +135,7 @@ gdzie r̄ = Mean[r]  (linia średnia)
     +3µm │  ╭╮    ╭╮  ╭╮
     +2µm │ ╭╯╰╮  ╭╯╰╮╭╯╰╮
     +1µm │╭╯  ╰╮╭╯  ╰╯  ╰╮
-     0µm ├─────────────────── ← linia średnia r̄
+     0µm ├────────────────────── ← linia średnia r̄
     -1µm │                 ╰╮
     -2µm │                  ╰╯
          └──────────────────────→ punkt pomiarowy
