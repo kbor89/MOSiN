@@ -54,8 +54,8 @@ Wyobraź sobie, że chcesz zmierzyć, jak bardzo okrągła jest bieżnia łożys
 
          Chropowatość (mikrostruktura):
          ┌──────────────────────────────┐
-         │  ╭╮  ╭╮  ╭╮  ╭╮  ╭╮  ╭╮   │  ← szczyty
-         │──╯╰──╯╰──╯╰──╯╰──╯╰──╯╰──  │  ← linia średnia
+         │  ╭╮  ╭╮  ╭╮  ╭╮  ╭╮  ╭╮      │  ← szczyty
+         │──╯╰──╯╰──╯╰──╯╰──╯╰──╯╰──    │  ← linia średnia
          │                              │  ← doliny
          └──────────────────────────────┘
               Ra = średnie odchylenie
